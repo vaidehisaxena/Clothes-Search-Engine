@@ -74,7 +74,11 @@ clothing-search-engine/
 ├── tests.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+├── screenshots/
+│   ├── 01-ranked-search.png
+│   ├── 02-exact-phrase-results.png
+│   └── 03-proximity-results.png
+└── Clothes-Search-Engine-submission.zip
 ```
 
 ## Run the project
@@ -100,6 +104,15 @@ python tests.py
 ```bash
 streamlit run app.py
 ```
+
+## Submission deliverables
+
+- Source code with inline documentation and explanatory README sections
+- Dictionary output in `outputs/dictionary.json`
+- Positional-index output in `outputs/positional_index.json`
+- Test verification in `outputs/test_results.txt`
+- Application and representative-query screenshots in `screenshots/`
+- Complete submission archive in `Clothes-Search-Engine-submission.zip`
 
 ## Supported retrieval modes
 
