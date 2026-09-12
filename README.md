@@ -75,10 +75,11 @@ clothing-search-engine/
 ├── requirements.txt
 ├── README.md
 ├── screenshots/
-│   ├── 01-ranked-search.png
-│   ├── 02-exact-phrase-results.png
-│   ├── 03-proximity-results.png
-│   └── 04-current-ui.png
+│   ├── 01-home-ui.png
+│   ├── 02-ranked-pink-skirt.png
+│   ├── 03-exact-cotton-shirt.png
+│   ├── 04-document-detail.png
+│   └── 05-proximity-women-jacket.png
 └── Clothes-Search-Engine-submission.zip
 ```
 
