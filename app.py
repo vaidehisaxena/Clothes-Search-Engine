@@ -41,6 +41,7 @@ def result_card(engine, result, mode, rank):
     if len(description) > 190:
         description = description[:187].rstrip() + "..."
 
+    # Each mode exposes its own evidence so users can see why a result matched.
     if mode == "Ranked VSM":
         score = result["score"]
         evidence = f"""
@@ -190,6 +191,7 @@ if not DATA_PATH.exists():
     st.stop()
 
 engine = load_engine()
+# These values are calculated from the loaded index and shown as app-level health metrics.
 category_count = len({doc["category"] for doc in engine.documents.values()})
 st.markdown(
     f"""
@@ -241,6 +243,7 @@ else:
         results = engine.proximity_search(first_term, second_term, int(k)) if first_term and second_term else []
 
 if results is not None:
+    # Render results in two responsive columns to match the visual product-grid layout.
     st.markdown(
         f'<div class="results-header"><h2>Results for “{escape(search_label)}”</h2><span class="results-count">{len(results)} MATCH{"ES" if len(results) != 1 else ""}</span></div>',
         unsafe_allow_html=True,

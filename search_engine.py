@@ -9,7 +9,10 @@ from nltk.stem import PorterStemmer
 
 
 class ClothingSearchEngine:
+    """Build and query one positional index for the clothing corpus."""
+
     def __init__(self):
+        # All retrieval modes share these structures so their positions stay consistent.
         self.stemmer = PorterStemmer()
         self.documents = {}
         self.positional_index = defaultdict(dict)
@@ -32,6 +35,7 @@ class ClothingSearchEngine:
 
     @staticmethod
     def _extract_field(document_block, field_name):
+        """Extract one tagged field from a single DOC block."""
         pattern = rf"<{field_name}>(.*?)</{field_name}>"
         match = re.search(pattern, document_block, flags=re.DOTALL)
         if not match:
@@ -56,6 +60,7 @@ class ClothingSearchEngine:
             raise ValueError("No <DOC> records were found in the corpus.")
 
         for block in document_blocks:
+            # Store display metadata separately while indexing only the TEXT field.
             doc_id = self._extract_field(block, "DOCID")
             category = self._extract_field(block, "CATEGORY")
             title = self._extract_field(block, "TITLE")
@@ -75,6 +80,7 @@ class ClothingSearchEngine:
             term_positions = defaultdict(list)
             for position, term in enumerate(tokens):
                 term_positions[term].append(position)
+            # Each posting keeps every token position for phrase and proximity search.
             for term, positions in term_positions.items():
                 self.positional_index[term][doc_id] = positions
 
@@ -104,6 +110,7 @@ class ClothingSearchEngine:
         }
 
     def get_dictionary(self):
+        """Return term frequency and document frequency postings."""
         dictionary = {}
         for term in sorted(self.positional_index):
             postings = self.positional_index[term]
@@ -117,6 +124,7 @@ class ClothingSearchEngine:
         return dictionary
 
     def get_positional_dictionary(self):
+        """Return postings that also expose each term's token positions."""
         dictionary = {}
         for term in sorted(self.positional_index):
             postings = self.positional_index[term]
@@ -134,6 +142,7 @@ class ClothingSearchEngine:
         return dictionary
 
     def save_indexes(self, dictionary_path, positional_path):
+        """Write the ordinary and positional indexes as readable JSON files."""
         os.makedirs(os.path.dirname(dictionary_path) or ".", exist_ok=True)
         os.makedirs(os.path.dirname(positional_path) or ".", exist_ok=True)
 
@@ -144,6 +153,7 @@ class ClothingSearchEngine:
             json.dump(self.get_positional_dictionary(), file, indent=2)
 
     def ranked_search(self, query, limit=10):
+        """Rank documents with normalized lnc.ltc cosine similarity."""
         query_terms = self.preprocess(query)
         query_tf = Counter(query_terms)
         query_weights = {}
@@ -151,6 +161,7 @@ class ClothingSearchEngine:
         for term, tf in query_tf.items():
             if term not in self.positional_index:
                 continue
+            # Query terms use logarithmic TF multiplied by inverse document frequency.
             df = len(self.positional_index[term])
             idf = math.log10(self.N / df) if df > 0 else 0.0
             query_weights[term] = (1 + math.log10(tf)) * idf
@@ -162,6 +173,7 @@ class ClothingSearchEngine:
         scores = defaultdict(float)
 
         for term, query_weight in query_weights.items():
+            # Accumulate each term's contribution to the document-query cosine score.
             normalized_query_weight = query_weight / query_norm
             for doc_id, positions in self.positional_index[term].items():
                 tf = len(positions)
@@ -185,6 +197,7 @@ class ClothingSearchEngine:
         return results
 
     def phrase_search(self, phrase):
+        """Find documents where all processed terms occur consecutively."""
         terms = self.preprocess(phrase)
         if not terms:
             return []
@@ -197,6 +210,7 @@ class ClothingSearchEngine:
 
         results = []
         for doc_id in sorted(candidate_documents):
+            # A phrase starts at a first-term position only when every next position matches.
             first_term_positions = self.positional_index[terms[0]][doc_id]
             remaining_position_sets = [
                 set(self.positional_index[term][doc_id])
@@ -227,6 +241,7 @@ class ClothingSearchEngine:
         return results
 
     def proximity_search(self, first_term, second_term, k):
+        """Find ordered term pairs whose positional distance is at most k."""
         processed_first = self.preprocess(first_term)
         processed_second = self.preprocess(second_term)
 
@@ -252,6 +267,7 @@ class ClothingSearchEngine:
 
             for first_position in positions1:
                 for second_position in positions2:
+                    # Ordered proximity requires the first term to appear before the second.
                     distance = second_position - first_position
                     if 0 < distance <= k:
                         matching_pairs.append({
