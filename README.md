@@ -4,7 +4,7 @@ This project implements a compact retrieval system for a clothing dataset. It us
 
 ## Dataset format
 
-The assignment corpus uses tagged XML-style blocks rather than CSV:
+The assignment corpus uses tagged XML-style blocks:
 
 ```xml
 <DOC>
