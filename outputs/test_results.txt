@@ -1,0 +1,356 @@
+Clothing Search Engine
+Loaded documents: 100
+Dictionary terms: 141
+
+Main menu:
+1. Run all mandatory assignment tests
+2. Enter queries manually
+3. Exit
+Enter your choice: 
+======================================================================
+MANDATORY FREE-TEXT TESTS
+======================================================================
+
+Free-text query: "cotton shirt"
+1. D001 | Men's Cotton Crew Neck T-Shirt - Black | Category: T-Shirt | Score: 0.205550
+2. D041 | Men's Cotton Crew Neck T-Shirt - Maroon | Category: T-Shirt | Score: 0.205550
+3. D061 | Men's Cotton Crew Neck T-Shirt - White | Category: T-Shirt | Score: 0.205550
+4. D081 | Men's Cotton Crew Neck T-Shirt - Mustard | Category: T-Shirt | Score: 0.203972
+5. D021 | Men's Cotton Crew Neck T-Shirt - Sky Blue | Category: T-Shirt | Score: 0.201383
+6. D022 | Men's Checked Cotton Shirt - White | Category: Shirt | Score: 0.198195
+7. D082 | Men's Checked Cotton Shirt - Blue | Category: Shirt | Score: 0.198195
+8. D042 | Men's Checked Cotton Shirt - Maroon | Category: Shirt | Score: 0.197211
+9. D062 | Men's Checked Cotton Shirt - Olive | Category: Shirt | Score: 0.195639
+10. D002 | Men's Checked Cotton Shirt - Black | Category: Shirt | Score: 0.195639
+
+Free-text query: "blue denim jeans"
+1. D023 | Men's Regular Fit Denim Jeans - Grey | Category: Jeans | Score: 0.198541
+2. D083 | Men's Regular Fit Denim Jeans - Grey | Category: Jeans | Score: 0.198541
+3. D043 | Men's Regular Fit Denim Jeans - Grey | Category: Jeans | Score: 0.197560
+4. D003 | Men's Regular Fit Denim Jeans - Grey | Category: Jeans | Score: 0.194934
+5. D063 | Men's Regular Fit Denim Jeans - Grey | Category: Jeans | Score: 0.194934
+6. D053 | Men's Slim Fit Stretch Jeans - Grey | Category: Jeans | Score: 0.176912
+7. D013 | Men's Slim Fit Stretch Jeans - Grey | Category: Jeans | Score: 0.176477
+8. D073 | Men's Slim Fit Stretch Jeans - Grey | Category: Jeans | Score: 0.176477
+9. D033 | Men's Slim Fit Stretch Jeans - Grey | Category: Jeans | Score: 0.174143
+10. D093 | Men's Slim Fit Stretch Jeans - Grey | Category: Jeans | Score: 0.174143
+
+Free-text query: "festive kurta"
+1. D004 | Men's Regular Fit Kurta - Pink | Category: Kurta | Score: 0.167587
+2. D064 | Men's Regular Fit Kurta - White | Category: Kurta | Score: 0.167587
+3. D034 | Women's Printed Straight Kurta - Maroon | Category: Kurta | Score: 0.166739
+4. D094 | Women's Printed Straight Kurta - Teal | Category: Kurta | Score: 0.166739
+5. D024 | Men's Regular Fit Kurta - Teal | Category: Kurta | Score: 0.166461
+6. D084 | Men's Regular Fit Kurta - Beige | Category: Kurta | Score: 0.166461
+7. D054 | Women's Printed Straight Kurta - Mustard | Category: Kurta | Score: 0.165630
+8. D014 | Women's Printed Straight Kurta - Beige | Category: Kurta | Score: 0.164708
+9. D074 | Women's Printed Straight Kurta - Pink | Category: Kurta | Score: 0.164708
+10. D044 | Men's Regular Fit Kurta - Navy Blue | Category: Kurta | Score: 0.163303
+
+Free-text query: "winter jacket"
+1. D058 | Women's Quilted Winter Jacket - Black | Category: Jacket | Score: 0.236307
+2. D018 | Women's Quilted Winter Jacket - Beige | Category: Jacket | Score: 0.235081
+3. D078 | Women's Quilted Winter Jacket - Beige | Category: Jacket | Score: 0.235081
+4. D038 | Women's Quilted Winter Jacket - Olive | Category: Jacket | Score: 0.233126
+5. D098 | Women's Quilted Winter Jacket - Olive | Category: Jacket | Score: 0.233126
+6. D028 | Women's Casual Puffer Jacket - Black | Category: Jacket | Score: 0.212017
+7. D088 | Women's Casual Puffer Jacket - Black | Category: Jacket | Score: 0.212017
+8. D048 | Women's Casual Puffer Jacket - Beige | Category: Jacket | Score: 0.210935
+9. D008 | Women's Casual Puffer Jacket - Olive | Category: Jacket | Score: 0.209210
+10. D068 | Women's Casual Puffer Jacket - Olive | Category: Jacket | Score: 0.209210
+
+Free-text query: "high waist leggings"
+1. D029 | Women's High Waist Stretch Leggings - Grey | Category: Leggings | Score: 0.286698
+2. D049 | Women's High Waist Stretch Leggings - Black | Category: Leggings | Score: 0.286698
+3. D089 | Women's High Waist Stretch Leggings - Grey | Category: Leggings | Score: 0.286698
+4. D009 | Women's High Waist Stretch Leggings - Olive Green | Category: Leggings | Score: 0.280647
+5. D069 | Women's High Waist Stretch Leggings - Olive Green | Category: Leggings | Score: 0.280647
+6. D019 | Women's Printed Active Leggings - Black | Category: Leggings | Score: 0.242628
+7. D059 | Women's Printed Active Leggings - Grey | Category: Leggings | Score: 0.242628
+8. D079 | Women's Printed Active Leggings - Black | Category: Leggings | Score: 0.242628
+9. D039 | Women's Printed Active Leggings - Olive Green | Category: Leggings | Score: 0.237501
+10. D099 | Women's Printed Active Leggings - Olive Green | Category: Leggings | Score: 0.237501
+
+Free-text query: "regular fit shirt"
+1. D052 | Women's Striped Casual Shirt - Beige | Category: Shirt | Score: 0.205982
+2. D022 | Men's Checked Cotton Shirt - White | Category: Shirt | Score: 0.205465
+3. D082 | Men's Checked Cotton Shirt - Blue | Category: Shirt | Score: 0.205465
+4. D012 | Women's Striped Casual Shirt - Blue | Category: Shirt | Score: 0.204953
+5. D072 | Women's Striped Casual Shirt - Black | Category: Shirt | Score: 0.204953
+6. D042 | Men's Checked Cotton Shirt - Maroon | Category: Shirt | Score: 0.204445
+7. D092 | Women's Striped Casual Shirt - White | Category: Shirt | Score: 0.203312
+8. D062 | Men's Checked Cotton Shirt - Olive | Category: Shirt | Score: 0.202816
+9. D002 | Men's Checked Cotton Shirt - Black | Category: Shirt | Score: 0.202816
+10. D032 | Women's Striped Casual Shirt - Light Pink | Category: Shirt | Score: 0.200622
+
+Free-text query: "breathable fabric"
+1. D014 | Women's Printed Straight Kurta - Beige | Category: Kurta | Score: 0.180359
+2. D074 | Women's Printed Straight Kurta - Pink | Category: Kurta | Score: 0.180359
+3. D044 | Men's Regular Fit Kurta - Navy Blue | Category: Kurta | Score: 0.178821
+4. D004 | Men's Regular Fit Kurta - Pink | Category: Kurta | Score: 0.168546
+5. D064 | Men's Regular Fit Kurta - White | Category: Kurta | Score: 0.168546
+6. D034 | Women's Printed Straight Kurta - Maroon | Category: Kurta | Score: 0.167693
+7. D094 | Women's Printed Straight Kurta - Teal | Category: Kurta | Score: 0.167693
+8. D024 | Men's Regular Fit Kurta - Teal | Category: Kurta | Score: 0.167413
+9. D084 | Men's Regular Fit Kurta - Beige | Category: Kurta | Score: 0.167413
+10. D054 | Women's Printed Straight Kurta - Mustard | Category: Kurta | Score: 0.166577
+
+Free-text query: "zip closure hoodie"
+1. D037 | Unisex Fleece Pullover Hoodie - Black | Category: Hoodie | Score: 0.096411
+2. D097 | Unisex Fleece Pullover Hoodie - Black | Category: Hoodie | Score: 0.096411
+3. D057 | Unisex Fleece Pullover Hoodie - Wine | Category: Hoodie | Score: 0.095626
+4. D007 | Women's Oversized Fleece Hoodie - Black | Category: Hoodie | Score: 0.095389
+5. D067 | Women's Oversized Fleece Hoodie - Black | Category: Hoodie | Score: 0.095389
+6. D017 | Unisex Fleece Pullover Hoodie - Navy Blue | Category: Hoodie | Score: 0.095094
+7. D077 | Unisex Fleece Pullover Hoodie - Navy Blue | Category: Hoodie | Score: 0.095094
+8. D027 | Women's Oversized Fleece Hoodie - Wine | Category: Hoodie | Score: 0.094629
+9. D087 | Women's Oversized Fleece Hoodie - Wine | Category: Hoodie | Score: 0.094629
+10. D047 | Women's Oversized Fleece Hoodie - Navy Blue | Category: Hoodie | Score: 0.094113
+
+Free-text query: "summer dress"
+1. D076 | Women's Casual Fit Dress - Green | Category: Dress | Score: 0.168995
+2. D036 | Women's Casual Fit Dress - Black | Category: Dress | Score: 0.167840
+3. D046 | Women's Solid Midi Dress - Lavender | Category: Dress | Score: 0.166739
+4. D016 | Women's Casual Fit Dress - Floral Pink | Category: Dress | Score: 0.166632
+5. D056 | Women's Casual Fit Dress - Yellow | Category: Dress | Score: 0.166461
+6. D006 | Women's Solid Midi Dress - Green | Category: Dress | Score: 0.165630
+7. D066 | Women's Solid Midi Dress - Maroon | Category: Dress | Score: 0.165630
+8. D096 | Women's Casual Fit Dress - Navy Blue | Category: Dress | Score: 0.165525
+9. D026 | Women's Solid Midi Dress - Navy Blue | Category: Dress | Score: 0.162130
+10. D086 | Women's Solid Midi Dress - Floral Pink | Category: Dress | Score: 0.162130
+
+Free-text query: "casual sweatshirt"
+1. D010 | Women's Fleece Sweatshirt - Black | Category: Sweatshirt | Score: 0.167840
+2. D070 | Women's Fleece Sweatshirt - Black | Category: Sweatshirt | Score: 0.167840
+3. D030 | Women's Fleece Sweatshirt - Maroon | Category: Sweatshirt | Score: 0.166989
+4. D090 | Women's Fleece Sweatshirt - Maroon | Category: Sweatshirt | Score: 0.166989
+5. D040 | Men's Regular Fit Sweatshirt - Black | Category: Sweatshirt | Score: 0.166881
+6. D100 | Men's Regular Fit Sweatshirt - Black | Category: Sweatshirt | Score: 0.166881
+7. D060 | Men's Regular Fit Sweatshirt - Maroon | Category: Sweatshirt | Score: 0.166044
+8. D050 | Women's Fleece Sweatshirt - Navy Blue | Category: Sweatshirt | Score: 0.163801
+9. D020 | Men's Regular Fit Sweatshirt - Navy Blue | Category: Sweatshirt | Score: 0.162909
+10. D080 | Men's Regular Fit Sweatshirt - Navy Blue | Category: Sweatshirt | Score: 0.162909
+
+Free-text query: "nonexistentfabricxyz"
+No matching documents found.
+
+======================================================================
+MANDATORY EXACT-PHRASE TESTS
+======================================================================
+
+Exact phrase: "cotton shirt"
+D002 | Men's Checked Cotton Shirt - Black | Positions: [[2, 3]]
+D022 | Men's Checked Cotton Shirt - White | Positions: [[2, 3]]
+D042 | Men's Checked Cotton Shirt - Maroon | Positions: [[2, 3]]
+D062 | Men's Checked Cotton Shirt - Olive | Positions: [[2, 3]]
+D082 | Men's Checked Cotton Shirt - Blue | Positions: [[2, 3]]
+
+Exact phrase: "stretch denim"
+D003 | Men's Regular Fit Denim Jeans - Grey | Positions: [[9, 10]]
+D013 | Men's Slim Fit Stretch Jeans - Grey | Positions: [[8, 9]]
+D033 | Men's Slim Fit Stretch Jeans - Grey | Positions: [[9, 10]]
+D043 | Men's Regular Fit Denim Jeans - Grey | Positions: [[8, 9]]
+D063 | Men's Regular Fit Denim Jeans - Grey | Positions: [[9, 10]]
+D073 | Men's Slim Fit Stretch Jeans - Grey | Positions: [[8, 9]]
+D093 | Men's Slim Fit Stretch Jeans - Grey | Positions: [[9, 10]]
+
+Exact phrase: "festive wear"
+D005 | Women's Printed Daily Wear Saree - Blue | Positions: [[19, 20]]
+D015 | Women's Cotton Handloom Saree - Red | Positions: [[18, 19]]
+D025 | Women's Printed Daily Wear Saree - Maroon | Positions: [[19, 20]]
+D035 | Women's Cotton Handloom Saree - Yellow | Positions: [[18, 19]]
+D045 | Women's Printed Daily Wear Saree - Purple | Positions: [[19, 20]]
+D055 | Women's Cotton Handloom Saree - Pink | Positions: [[18, 19]]
+D065 | Women's Printed Daily Wear Saree - Green | Positions: [[19, 20]]
+D075 | Women's Cotton Handloom Saree - Blue | Positions: [[18, 19]]
+D085 | Women's Printed Daily Wear Saree - Red | Positions: [[19, 20]]
+D095 | Women's Cotton Handloom Saree - Maroon | Positions: [[18, 19]]
+
+Exact phrase: "winter wear"
+D008 | Women's Casual Puffer Jacket - Olive | Positions: [[20, 21]]
+D010 | Women's Fleece Sweatshirt - Black | Positions: [[18, 19]]
+D018 | Women's Quilted Winter Jacket - Beige | Positions: [[19, 20]]
+D020 | Men's Regular Fit Sweatshirt - Navy Blue | Positions: [[20, 21]]
+D028 | Women's Casual Puffer Jacket - Black | Positions: [[20, 21]]
+D030 | Women's Fleece Sweatshirt - Maroon | Positions: [[18, 19]]
+D038 | Women's Quilted Winter Jacket - Olive | Positions: [[19, 20]]
+D040 | Men's Regular Fit Sweatshirt - Black | Positions: [[19, 20]]
+D048 | Women's Casual Puffer Jacket - Beige | Positions: [[20, 21]]
+D050 | Women's Fleece Sweatshirt - Navy Blue | Positions: [[19, 20]]
+
+Exact phrase: "regular fit"
+D003 | Men's Regular Fit Denim Jeans - Grey | Positions: [[1, 2]]
+D004 | Men's Regular Fit Kurta - Pink | Positions: [[1, 2]]
+D020 | Men's Regular Fit Sweatshirt - Navy Blue | Positions: [[1, 2]]
+D023 | Men's Regular Fit Denim Jeans - Grey | Positions: [[1, 2]]
+D024 | Men's Regular Fit Kurta - Teal | Positions: [[1, 2]]
+D040 | Men's Regular Fit Sweatshirt - Black | Positions: [[1, 2]]
+D043 | Men's Regular Fit Denim Jeans - Grey | Positions: [[1, 2]]
+D044 | Men's Regular Fit Kurta - Navy Blue | Positions: [[1, 2]]
+D060 | Men's Regular Fit Sweatshirt - Maroon | Positions: [[1, 2]]
+D063 | Men's Regular Fit Denim Jeans - Grey | Positions: [[1, 2]]
+
+Exact phrase: "breathable fabric"
+D001 | Men's Cotton Crew Neck T-Shirt - Black | Positions: [[22, 23]]
+D004 | Men's Regular Fit Kurta - Pink | Positions: [[19, 20]]
+D011 | Men's Oversized Graphic T-Shirt - Mustard | Positions: [[21, 22]]
+D014 | Women's Printed Straight Kurta - Beige | Positions: [[19, 20]]
+D021 | Men's Cotton Crew Neck T-Shirt - Sky Blue | Positions: [[23, 24]]
+D024 | Men's Regular Fit Kurta - Teal | Positions: [[19, 20]]
+D031 | Men's Oversized Graphic T-Shirt - Olive Green | Positions: [[22, 23]]
+D034 | Women's Printed Straight Kurta - Maroon | Positions: [[19, 20]]
+D041 | Men's Cotton Crew Neck T-Shirt - Maroon | Positions: [[22, 23]]
+D044 | Men's Regular Fit Kurta - Navy Blue | Positions: [[20, 21]]
+
+Exact phrase: "high waist"
+D009 | Women's High Waist Stretch Leggings - Olive Green | Positions: [[1, 2], [23, 24]]
+D019 | Women's Printed Active Leggings - Black | Positions: [[21, 22]]
+D029 | Women's High Waist Stretch Leggings - Grey | Positions: [[1, 2], [22, 23]]
+D039 | Women's Printed Active Leggings - Olive Green | Positions: [[22, 23]]
+D049 | Women's High Waist Stretch Leggings - Black | Positions: [[1, 2], [22, 23]]
+D059 | Women's Printed Active Leggings - Grey | Positions: [[21, 22]]
+D069 | Women's High Waist Stretch Leggings - Olive Green | Positions: [[1, 2], [23, 24]]
+D079 | Women's Printed Active Leggings - Black | Positions: [[21, 22]]
+D089 | Women's High Waist Stretch Leggings - Grey | Positions: [[1, 2], [22, 23]]
+D099 | Women's Printed Active Leggings - Olive Green | Positions: [[22, 23]]
+
+======================================================================
+MANDATORY PROXIMITY TESTS
+======================================================================
+
+Proximity query: cotton WITHIN/3 shirt
+D001 | Men's Cotton Crew Neck T-Shirt - Black | Position pairs: [{'first_position': 10, 'second_position': 13, 'distance': 3}]
+D002 | Men's Checked Cotton Shirt - Black | Position pairs: [{'first_position': 2, 'second_position': 3, 'distance': 1}]
+D021 | Men's Cotton Crew Neck T-Shirt - Sky Blue | Position pairs: [{'first_position': 11, 'second_position': 14, 'distance': 3}]
+D022 | Men's Checked Cotton Shirt - White | Position pairs: [{'first_position': 2, 'second_position': 3, 'distance': 1}]
+D041 | Men's Cotton Crew Neck T-Shirt - Maroon | Position pairs: [{'first_position': 10, 'second_position': 13, 'distance': 3}]
+D042 | Men's Checked Cotton Shirt - Maroon | Position pairs: [{'first_position': 2, 'second_position': 3, 'distance': 1}]
+D061 | Men's Cotton Crew Neck T-Shirt - White | Position pairs: [{'first_position': 10, 'second_position': 13, 'distance': 3}]
+D062 | Men's Checked Cotton Shirt - Olive | Position pairs: [{'first_position': 2, 'second_position': 3, 'distance': 1}]
+D081 | Men's Cotton Crew Neck T-Shirt - Mustard | Position pairs: [{'first_position': 10, 'second_position': 13, 'distance': 3}]
+D082 | Men's Checked Cotton Shirt - Blue | Position pairs: [{'first_position': 2, 'second_position': 3, 'distance': 1}]
+
+Proximity query: stretch WITHIN/4 denim
+D003 | Men's Regular Fit Denim Jeans - Grey | Position pairs: [{'first_position': 9, 'second_position': 10, 'distance': 1}]
+D013 | Men's Slim Fit Stretch Jeans - Grey | Position pairs: [{'first_position': 8, 'second_position': 9, 'distance': 1}]
+D033 | Men's Slim Fit Stretch Jeans - Grey | Position pairs: [{'first_position': 9, 'second_position': 10, 'distance': 1}]
+D043 | Men's Regular Fit Denim Jeans - Grey | Position pairs: [{'first_position': 8, 'second_position': 9, 'distance': 1}]
+D063 | Men's Regular Fit Denim Jeans - Grey | Position pairs: [{'first_position': 9, 'second_position': 10, 'distance': 1}]
+D073 | Men's Slim Fit Stretch Jeans - Grey | Position pairs: [{'first_position': 8, 'second_position': 9, 'distance': 1}]
+D093 | Men's Slim Fit Stretch Jeans - Grey | Position pairs: [{'first_position': 9, 'second_position': 10, 'distance': 1}]
+
+Proximity query: winter WITHIN/2 wear
+D008 | Women's Casual Puffer Jacket - Olive | Position pairs: [{'first_position': 20, 'second_position': 21, 'distance': 1}]
+D010 | Women's Fleece Sweatshirt - Black | Position pairs: [{'first_position': 18, 'second_position': 19, 'distance': 1}]
+D018 | Women's Quilted Winter Jacket - Beige | Position pairs: [{'first_position': 19, 'second_position': 20, 'distance': 1}]
+D020 | Men's Regular Fit Sweatshirt - Navy Blue | Position pairs: [{'first_position': 20, 'second_position': 21, 'distance': 1}]
+D028 | Women's Casual Puffer Jacket - Black | Position pairs: [{'first_position': 20, 'second_position': 21, 'distance': 1}]
+D030 | Women's Fleece Sweatshirt - Maroon | Position pairs: [{'first_position': 18, 'second_position': 19, 'distance': 1}]
+D038 | Women's Quilted Winter Jacket - Olive | Position pairs: [{'first_position': 19, 'second_position': 20, 'distance': 1}]
+D040 | Men's Regular Fit Sweatshirt - Black | Position pairs: [{'first_position': 19, 'second_position': 20, 'distance': 1}]
+D048 | Women's Casual Puffer Jacket - Beige | Position pairs: [{'first_position': 20, 'second_position': 21, 'distance': 1}]
+D050 | Women's Fleece Sweatshirt - Navy Blue | Position pairs: [{'first_position': 19, 'second_position': 20, 'distance': 1}]
+
+Main menu:
+1. Run all mandatory assignment tests
+2. Enter queries manually
+3. Exit
+Enter your choice: 
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter a free-text clothing query: 
+Free-text query: "pink skirt"
+1. D004 | Men's Regular Fit Kurta - Pink | Category: Kurta | Score: 0.167587
+2. D055 | Women's Cotton Handloom Saree - Pink | Category: Saree | Score: 0.167413
+3. D016 | Women's Casual Fit Dress - Floral Pink | Category: Dress | Score: 0.166632
+4. D074 | Women's Printed Straight Kurta - Pink | Category: Kurta | Score: 0.164708
+5. D032 | Women's Striped Casual Shirt - Light Pink | Category: Shirt | Score: 0.162130
+6. D086 | Women's Solid Midi Dress - Floral Pink | Category: Dress | Score: 0.162130
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter a free-text clothing query: 
+Free-text query: "kurta"
+1. D004 | Men's Regular Fit Kurta - Pink | Category: Kurta | Score: 0.167587
+2. D064 | Men's Regular Fit Kurta - White | Category: Kurta | Score: 0.167587
+3. D034 | Women's Printed Straight Kurta - Maroon | Category: Kurta | Score: 0.166739
+4. D094 | Women's Printed Straight Kurta - Teal | Category: Kurta | Score: 0.166739
+5. D024 | Men's Regular Fit Kurta - Teal | Category: Kurta | Score: 0.166461
+6. D084 | Men's Regular Fit Kurta - Beige | Category: Kurta | Score: 0.166461
+7. D054 | Women's Printed Straight Kurta - Mustard | Category: Kurta | Score: 0.165630
+8. D014 | Women's Printed Straight Kurta - Beige | Category: Kurta | Score: 0.164708
+9. D074 | Women's Printed Straight Kurta - Pink | Category: Kurta | Score: 0.164708
+10. D044 | Men's Regular Fit Kurta - Navy Blue | Category: Kurta | Score: 0.163303
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter an exact phrase: 
+Exact phrase: "high waist"
+D009 | Women's High Waist Stretch Leggings - Olive Green | Positions: [[1, 2], [23, 24]]
+D019 | Women's Printed Active Leggings - Black | Positions: [[21, 22]]
+D029 | Women's High Waist Stretch Leggings - Grey | Positions: [[1, 2], [22, 23]]
+D039 | Women's Printed Active Leggings - Olive Green | Positions: [[22, 23]]
+D049 | Women's High Waist Stretch Leggings - Black | Positions: [[1, 2], [22, 23]]
+D059 | Women's Printed Active Leggings - Grey | Positions: [[21, 22]]
+D069 | Women's High Waist Stretch Leggings - Olive Green | Positions: [[1, 2], [23, 24]]
+D079 | Women's Printed Active Leggings - Black | Positions: [[21, 22]]
+D089 | Women's High Waist Stretch Leggings - Grey | Positions: [[1, 2], [22, 23]]
+D099 | Women's Printed Active Leggings - Olive Green | Positions: [[22, 23]]
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter an exact phrase: 
+Exact phrase: "low waist"
+No exact phrase matches found.
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter an exact phrase: 
+Exact phrase: "loose fit"
+No exact phrase matches found.
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter the first term: Enter the second term: Enter the value of k: 
+Proximity query: red WITHIN/3 dress
+No proximity matches found.
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: Enter the first term: Enter the second term: Enter the value of k: 
+Proximity query: kurta WITHIN/5 beige
+D014 | Women's Printed Straight Kurta - Beige | Position pairs: [{'first_position': 3, 'second_position': 4, 'distance': 1}]
+D084 | Men's Regular Fit Kurta - Beige | Position pairs: [{'first_position': 3, 'second_position': 4, 'distance': 1}]
+
+Choose a search mode:
+1. Free-text VSM search
+2. Exact phrase search
+3. Ordered proximity search
+4. Return to main menu
+Enter your choice: 
+Main menu:
+1. Run all mandatory assignment tests
+2. Enter queries manually
+3. Exit
+Enter your choice: Goodbye.
