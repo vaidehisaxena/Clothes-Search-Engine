@@ -40,8 +40,7 @@ class ClothingSearchEngine:
 
     def build_index(self, corpus_path):
         """
-        Read either the supplied tagged corpus or a CSV fallback.
-        The dataset in this assignment is a tagged format:
+        Read the tagged corpus used by this assignment:
             <DOC> ... <DOCID>D001</DOCID> ... </DOC>
         """
         path = Path(corpus_path)
@@ -49,38 +48,6 @@ class ClothingSearchEngine:
         self.documents = {}
         self.positional_index = defaultdict(dict)
         self.document_norms = {}
-
-        if path.suffix.lower() == ".csv":
-            import pandas as pd
-
-            df = pd.read_csv(path)
-            required_columns = {"docID", "title", "category", "description"}
-            missing = required_columns - set(df.columns)
-            if missing:
-                raise ValueError(f"Missing CSV columns: {sorted(missing)}")
-
-            for _, row in df.iterrows():
-                doc_id = str(row["docID"]).strip()
-                title = str(row["title"])
-                category = str(row["category"])
-                description = str(row["description"])
-
-                self.documents[doc_id] = {
-                    "title": title,
-                    "category": category,
-                    "description": description,
-                }
-
-                tokens = self.preprocess(description)
-                term_positions = defaultdict(list)
-                for position, term in enumerate(tokens):
-                    term_positions[term].append(position)
-                for term, positions in term_positions.items():
-                    self.positional_index[term][doc_id] = positions
-
-            self.N = len(self.documents)
-            self._calculate_document_norms()
-            return
 
         corpus = path.read_text(encoding="utf-8")
         document_blocks = re.findall(r"<DOC>\s*(.*?)\s*</DOC>", corpus, flags=re.DOTALL)

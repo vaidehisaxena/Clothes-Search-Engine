@@ -8,8 +8,6 @@ from search_engine import ClothingSearchEngine
 
 ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "data" / "corpus_100.txt"
-if not DATA_PATH.exists():
-    DATA_PATH = ROOT / "data" / "clothing.csv"
 OUTPUT_DIR = ROOT / "outputs"
 
 
@@ -117,7 +115,7 @@ st.caption("Luxury-style apparel retrieval for ranked, phrase, and proximity sea
 engine = load_engine()
 
 if not DATA_PATH.exists():
-    st.error("The corpus file is missing. Please add data/corpus_100.txt or data/clothing.csv.")
+    st.error("The corpus file is missing. Please add data/corpus_100.txt.")
     st.stop()
 
 mode = st.selectbox("Search mode", ["Ranked VSM", "Exact phrase", "Ordered proximity"], index=0)

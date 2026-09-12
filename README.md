@@ -15,7 +15,7 @@ The assignment corpus uses tagged XML-style blocks rather than CSV:
 </DOC>
 ```
 
-The program supports both this tagged corpus and the earlier CSV fallback for compatibility.
+The program uses this tagged corpus as its only data source.
 
 ## Preprocessing policy
 
@@ -65,7 +65,6 @@ $$score(d,q) = \sum_{t \in q \cap d} \frac{w_{d,t}}{|d|} \cdot \frac{w_{q,t}}{|q
 clothing-search-engine/
 ├── data/
 │   ├── corpus_100.txt
-│   └── clothing.csv
 ├── outputs/
 │   ├── dictionary.json
 │   ├── positional_index.json
@@ -88,7 +87,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2. Place the tagged corpus at `data/corpus_100.txt`.
+2. Keep the tagged corpus at `data/corpus_100.txt`.
 
 3. Run the tests:
 
