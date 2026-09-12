@@ -77,7 +77,8 @@ clothing-search-engine/
 ├── screenshots/
 │   ├── 01-ranked-search.png
 │   ├── 02-exact-phrase-results.png
-│   └── 03-proximity-results.png
+│   ├── 03-proximity-results.png
+│   └── 04-current-ui.png
 └── Clothes-Search-Engine-submission.zip
 ```
 
