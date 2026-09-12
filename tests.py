@@ -81,7 +81,6 @@ def run_mandatory_tests(engine):
     These are input queries, not hard-coded expected document IDs.
     The engine calculates every result dynamically.
     """
-    # The query lists cover ranked, exact positional, proximity, and no-match behavior.
     free_text_queries = [
         "cotton shirt",
         "blue denim jeans",
@@ -193,7 +192,6 @@ def interactive_search(engine):
 
 
 def main():
-    """Load the official corpus and expose the assignment's terminal menu."""
     engine = ClothingSearchEngine()
     engine.build_index(CORPUS_PATH)
 
