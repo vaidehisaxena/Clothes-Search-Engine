@@ -1,0 +1,6549 @@
+{
+  "a": {
+    "df": 52,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "air": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "all": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "and": {
+    "df": 80,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 2
+      },
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 2
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 2
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 2
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 2
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 2
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 2
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 2
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 2
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 2
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 2
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 2
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 2
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 2
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 2
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 2
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 2
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 2
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 2
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 2
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "appear": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "athlet": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D049",
+        "tf": 1
+      }
+    ]
+  },
+  "basic": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D044",
+        "tf": 1
+      }
+    ]
+  },
+  "beig": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D007",
+        "tf": 1
+      }
+    ]
+  },
+  "black": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      }
+    ]
+  },
+  "blend": {
+    "df": 5,
+    "postings": [
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      }
+    ]
+  },
+  "blue": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      }
+    ]
+  },
+  "bodycon": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D029",
+        "tf": 1
+      }
+    ]
+  },
+  "bomber": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D033",
+        "tf": 1
+      }
+    ]
+  },
+  "breast": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D085",
+        "tf": 1
+      }
+    ]
+  },
+  "breathabl": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "built": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "busi": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D070",
+        "tf": 1
+      }
+    ]
+  },
+  "canva": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D091",
+        "tf": 1
+      }
+    ]
+  },
+  "care": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "cargo": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D064",
+        "tf": 1
+      }
+    ]
+  },
+  "cashmer": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      }
+    ]
+  },
+  "casual": {
+    "df": 5,
+    "postings": [
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      }
+    ]
+  },
+  "chino": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D061",
+        "tf": 1
+      }
+    ]
+  },
+  "chunki": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D071",
+        "tf": 1
+      }
+    ]
+  },
+  "classic": {
+    "df": 5,
+    "postings": [
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      }
+    ]
+  },
+  "clean": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      }
+    ]
+  },
+  "coat": {
+    "df": 9,
+    "postings": [
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      }
+    ]
+  },
+  "combin": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      }
+    ]
+  },
+  "comfort": {
+    "df": 70,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 2
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 2
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "construct": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      }
+    ]
+  },
+  "cotton": {
+    "df": 22,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 2
+      },
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 2
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      }
+    ]
+  },
+  "court": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "craft": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "crew": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      }
+    ]
+  },
+  "crop": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      }
+    ]
+  },
+  "cushion": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "daili": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "dark": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D014",
+        "tf": 1
+      }
+    ]
+  },
+  "day": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "denim": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      }
+    ]
+  },
+  "design": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "doubl": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D085",
+        "tf": 1
+      }
+    ]
+  },
+  "dress": {
+    "df": 9,
+    "postings": [
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      }
+    ]
+  },
+  "durabl": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "easi": {
+    "df": 40,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "eleg": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D022",
+        "tf": 1
+      }
+    ]
+  },
+  "even": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D022",
+        "tf": 1
+      }
+    ]
+  },
+  "everyday": {
+    "df": 11,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "fabric": {
+    "df": 40,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "fashion": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "fine": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D075",
+        "tf": 1
+      }
+    ]
+  },
+  "finish": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      }
+    ]
+  },
+  "fit": {
+    "df": 14,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "flare": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D057",
+        "tf": 1
+      }
+    ]
+  },
+  "flatter": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "fleec": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      }
+    ]
+  },
+  "flex": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "flexibl": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "floral": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D021",
+        "tf": 1
+      }
+    ]
+  },
+  "flowi": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      }
+    ]
+  },
+  "for": {
+    "df": 50,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "formal": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      }
+    ]
+  },
+  "from": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      }
+    ]
+  },
+  "gaug": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D075",
+        "tf": 1
+      }
+    ]
+  },
+  "graphic": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      }
+    ]
+  },
+  "green": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      }
+    ]
+  },
+  "grey": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      }
+    ]
+  },
+  "heavi": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      }
+    ]
+  },
+  "heavyweight": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D044",
+        "tf": 1
+      }
+    ]
+  },
+  "henley": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D077",
+        "tf": 1
+      }
+    ]
+  },
+  "high": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      }
+    ]
+  },
+  "hike": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D036",
+        "tf": 1
+      }
+    ]
+  },
+  "hoodi": {
+    "df": 11,
+    "postings": [
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      }
+    ]
+  },
+  "insul": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D038",
+        "tf": 1
+      }
+    ]
+  },
+  "jacket": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      }
+    ]
+  },
+  "jean": {
+    "df": 7,
+    "postings": [
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      }
+    ]
+  },
+  "jersey": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      }
+    ]
+  },
+  "keep": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "knee": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D026",
+        "tf": 1
+      }
+    ]
+  },
+  "knit": {
+    "df": 5,
+    "postings": [
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      }
+    ]
+  },
+  "last": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "layer": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D058",
+        "tf": 1
+      }
+    ]
+  },
+  "leather": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      }
+    ]
+  },
+  "leg": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      }
+    ]
+  },
+  "length": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D026",
+        "tf": 1
+      }
+    ]
+  },
+  "lightweight": {
+    "df": 14,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      }
+    ]
+  },
+  "line": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      }
+    ]
+  },
+  "linen": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D069",
+        "tf": 1
+      }
+    ]
+  },
+  "long": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D081",
+        "tf": 1
+      }
+    ]
+  },
+  "longlin": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D087",
+        "tf": 1
+      }
+    ]
+  },
+  "look": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "low": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "made": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "mainten": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      }
+    ]
+  },
+  "materi": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "maxi": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D024",
+        "tf": 1
+      }
+    ]
+  },
+  "men": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      }
+    ]
+  },
+  "merino": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D080",
+        "tf": 1
+      }
+    ]
+  },
+  "mesh": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D095",
+        "tf": 1
+      }
+    ]
+  },
+  "midi": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      }
+    ]
+  },
+  "modern": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      }
+    ]
+  },
+  "moto": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D039",
+        "tf": 1
+      }
+    ]
+  },
+  "movement": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "navi": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      }
+    ]
+  },
+  "neck": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D002",
+        "tf": 1
+      }
+    ]
+  },
+  "off": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D027",
+        "tf": 1
+      }
+    ]
+  },
+  "offer": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "offic": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D062",
+        "tf": 1
+      }
+    ]
+  },
+  "on": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "organ": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D007",
+        "tf": 1
+      }
+    ]
+  },
+  "outdoor": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D034",
+        "tf": 1
+      }
+    ]
+  },
+  "overs": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      }
+    ]
+  },
+  "packabl": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D040",
+        "tf": 1
+      }
+    ]
+  },
+  "pant": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D017",
+        "tf": 1
+      }
+    ]
+  },
+  "parka": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D086",
+        "tf": 1
+      }
+    ]
+  },
+  "parti": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      }
+    ]
+  },
+  "peacoat": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D090",
+        "tf": 1
+      }
+    ]
+  },
+  "pencil": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D056",
+        "tf": 1
+      }
+    ]
+  },
+  "perform": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      }
+    ]
+  },
+  "pink": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      }
+    ]
+  },
+  "pleat": {
+    "df": 4,
+    "postings": [
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      }
+    ]
+  },
+  "pocket": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D047",
+        "tf": 1
+      }
+    ]
+  },
+  "polish": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "polo": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      }
+    ]
+  },
+  "practic": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "premium": {
+    "df": 22,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "print": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      }
+    ]
+  },
+  "product": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "puffer": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      }
+    ]
+  },
+  "pullov": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D046",
+        "tf": 1
+      }
+    ]
+  },
+  "qualiti": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "quilt": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D088",
+        "tf": 1
+      }
+    ]
+  },
+  "rain": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D040",
+        "tf": 1
+      }
+    ]
+  },
+  "red": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D008",
+        "tf": 1
+      }
+    ]
+  },
+  "refin": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "relax": {
+    "df": 12,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "resist": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D034",
+        "tf": 1
+      }
+    ]
+  },
+  "retain": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      }
+    ]
+  },
+  "retro": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "rib": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      }
+    ]
+  },
+  "rigid": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D019",
+        "tf": 1
+      }
+    ]
+  },
+  "rise": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      }
+    ]
+  },
+  "run": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "satin": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      }
+    ]
+  },
+  "shape": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      }
+    ]
+  },
+  "shirt": {
+    "df": 5,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      }
+    ]
+  },
+  "shoulder": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D027",
+        "tf": 1
+      }
+    ]
+  },
+  "silhouett": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "skinni": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D012",
+        "tf": 1
+      }
+    ]
+  },
+  "skirt": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      }
+    ]
+  },
+  "slim": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      }
+    ]
+  },
+  "slip": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "smooth": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "sneaker": {
+    "df": 9,
+    "postings": [
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "soft": {
+    "df": 23,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 2
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "softshel": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D036",
+        "tf": 1
+      }
+    ]
+  },
+  "sport": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "stitch": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      }
+    ]
+  },
+  "straight": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      }
+    ]
+  },
+  "street": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "stretch": {
+    "df": 14,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      }
+    ]
+  },
+  "stripe": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      }
+    ]
+  },
+  "structur": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D083",
+        "tf": 1
+      }
+    ]
+  },
+  "style": {
+    "df": 21,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D028",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D038",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D048",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D058",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D088",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      },
+      {
+        "docID": "D098",
+        "tf": 1
+      }
+    ]
+  },
+  "stylish": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "summer": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      }
+    ]
+  },
+  "sundress": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D025",
+        "tf": 1
+      }
+    ]
+  },
+  "sweater": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D078",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      }
+    ]
+  },
+  "t": {
+    "df": 4,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D008",
+        "tf": 1
+      }
+    ]
+  },
+  "tailor": {
+    "df": 4,
+    "postings": [
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      }
+    ]
+  },
+  "tee": {
+    "df": 6,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D010",
+        "tf": 1
+      }
+    ]
+  },
+  "tenni": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D055",
+        "tf": 1
+      }
+    ]
+  },
+  "thi": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D010",
+        "tf": 1
+      },
+      {
+        "docID": "D020",
+        "tf": 1
+      },
+      {
+        "docID": "D030",
+        "tf": 1
+      },
+      {
+        "docID": "D040",
+        "tf": 1
+      },
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D060",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      },
+      {
+        "docID": "D080",
+        "tf": 1
+      },
+      {
+        "docID": "D090",
+        "tf": 1
+      },
+      {
+        "docID": "D100",
+        "tf": 1
+      }
+    ]
+  },
+  "through": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D042",
+        "tf": 1
+      }
+    ]
+  },
+  "top": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "touch": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      }
+    ]
+  },
+  "trainer": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D095",
+        "tf": 1
+      }
+    ]
+  },
+  "travel": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      }
+    ]
+  },
+  "trench": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      }
+    ]
+  },
+  "trouser": {
+    "df": 11,
+    "postings": [
+      {
+        "docID": "D018",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D070",
+        "tf": 1
+      }
+    ]
+  },
+  "urban": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D068",
+        "tf": 1
+      }
+    ]
+  },
+  "use": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      }
+    ]
+  },
+  "util": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D068",
+        "tf": 1
+      }
+    ]
+  },
+  "v": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      }
+    ]
+  },
+  "versatil": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      }
+    ]
+  },
+  "vintag": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D017",
+        "tf": 1
+      }
+    ]
+  },
+  "waist": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D052",
+        "tf": 1
+      }
+    ]
+  },
+  "walk": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D098",
+        "tf": 1
+      }
+    ]
+  },
+  "warm": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      }
+    ]
+  },
+  "wash": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D014",
+        "tf": 1
+      }
+    ]
+  },
+  "water": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D034",
+        "tf": 1
+      }
+    ]
+  },
+  "waterproof": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D086",
+        "tf": 1
+      }
+    ]
+  },
+  "wear": {
+    "df": 20,
+    "postings": [
+      {
+        "docID": "D001",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D011",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D021",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D031",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D041",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      },
+      {
+        "docID": "D051",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D061",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      }
+    ]
+  },
+  "while": {
+    "df": 10,
+    "postings": [
+      {
+        "docID": "D003",
+        "tf": 1
+      },
+      {
+        "docID": "D013",
+        "tf": 1
+      },
+      {
+        "docID": "D023",
+        "tf": 1
+      },
+      {
+        "docID": "D033",
+        "tf": 1
+      },
+      {
+        "docID": "D043",
+        "tf": 1
+      },
+      {
+        "docID": "D053",
+        "tf": 1
+      },
+      {
+        "docID": "D063",
+        "tf": 1
+      },
+      {
+        "docID": "D073",
+        "tf": 1
+      },
+      {
+        "docID": "D083",
+        "tf": 1
+      },
+      {
+        "docID": "D093",
+        "tf": 1
+      }
+    ]
+  },
+  "white": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D091",
+        "tf": 1
+      }
+    ]
+  },
+  "wide": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      }
+    ]
+  },
+  "windproof": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D031",
+        "tf": 1
+      }
+    ]
+  },
+  "winter": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D050",
+        "tf": 1
+      },
+      {
+        "docID": "D071",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      }
+    ]
+  },
+  "with": {
+    "df": 60,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      },
+      {
+        "docID": "D004",
+        "tf": 1
+      },
+      {
+        "docID": "D005",
+        "tf": 1
+      },
+      {
+        "docID": "D006",
+        "tf": 1
+      },
+      {
+        "docID": "D007",
+        "tf": 1
+      },
+      {
+        "docID": "D009",
+        "tf": 1
+      },
+      {
+        "docID": "D012",
+        "tf": 1
+      },
+      {
+        "docID": "D014",
+        "tf": 1
+      },
+      {
+        "docID": "D015",
+        "tf": 1
+      },
+      {
+        "docID": "D016",
+        "tf": 1
+      },
+      {
+        "docID": "D017",
+        "tf": 1
+      },
+      {
+        "docID": "D019",
+        "tf": 1
+      },
+      {
+        "docID": "D022",
+        "tf": 1
+      },
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D025",
+        "tf": 1
+      },
+      {
+        "docID": "D026",
+        "tf": 1
+      },
+      {
+        "docID": "D027",
+        "tf": 1
+      },
+      {
+        "docID": "D029",
+        "tf": 1
+      },
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D034",
+        "tf": 1
+      },
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D036",
+        "tf": 1
+      },
+      {
+        "docID": "D037",
+        "tf": 1
+      },
+      {
+        "docID": "D039",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D044",
+        "tf": 1
+      },
+      {
+        "docID": "D045",
+        "tf": 1
+      },
+      {
+        "docID": "D046",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 2
+      },
+      {
+        "docID": "D049",
+        "tf": 1
+      },
+      {
+        "docID": "D052",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      },
+      {
+        "docID": "D055",
+        "tf": 1
+      },
+      {
+        "docID": "D056",
+        "tf": 1
+      },
+      {
+        "docID": "D057",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D062",
+        "tf": 1
+      },
+      {
+        "docID": "D064",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D066",
+        "tf": 1
+      },
+      {
+        "docID": "D067",
+        "tf": 1
+      },
+      {
+        "docID": "D069",
+        "tf": 1
+      },
+      {
+        "docID": "D072",
+        "tf": 1
+      },
+      {
+        "docID": "D074",
+        "tf": 1
+      },
+      {
+        "docID": "D075",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D077",
+        "tf": 1
+      },
+      {
+        "docID": "D079",
+        "tf": 1
+      },
+      {
+        "docID": "D082",
+        "tf": 1
+      },
+      {
+        "docID": "D084",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      },
+      {
+        "docID": "D086",
+        "tf": 1
+      },
+      {
+        "docID": "D087",
+        "tf": 1
+      },
+      {
+        "docID": "D089",
+        "tf": 1
+      },
+      {
+        "docID": "D092",
+        "tf": 1
+      },
+      {
+        "docID": "D094",
+        "tf": 1
+      },
+      {
+        "docID": "D095",
+        "tf": 1
+      },
+      {
+        "docID": "D096",
+        "tf": 1
+      },
+      {
+        "docID": "D097",
+        "tf": 1
+      },
+      {
+        "docID": "D099",
+        "tf": 1
+      }
+    ]
+  },
+  "women": {
+    "df": 1,
+    "postings": [
+      {
+        "docID": "D002",
+        "tf": 1
+      }
+    ]
+  },
+  "wool": {
+    "df": 6,
+    "postings": [
+      {
+        "docID": "D035",
+        "tf": 1
+      },
+      {
+        "docID": "D059",
+        "tf": 1
+      },
+      {
+        "docID": "D065",
+        "tf": 1
+      },
+      {
+        "docID": "D076",
+        "tf": 1
+      },
+      {
+        "docID": "D081",
+        "tf": 1
+      },
+      {
+        "docID": "D085",
+        "tf": 1
+      }
+    ]
+  },
+  "wrap": {
+    "df": 2,
+    "postings": [
+      {
+        "docID": "D024",
+        "tf": 1
+      },
+      {
+        "docID": "D054",
+        "tf": 1
+      }
+    ]
+  },
+  "zip": {
+    "df": 3,
+    "postings": [
+      {
+        "docID": "D032",
+        "tf": 1
+      },
+      {
+        "docID": "D042",
+        "tf": 1
+      },
+      {
+        "docID": "D047",
+        "tf": 1
+      }
+    ]
+  }
+}

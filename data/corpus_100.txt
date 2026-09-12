@@ -1,0 +1,700 @@
+<DOC>
+<DOCID>D001</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Men's Cotton Crew Neck T-Shirt - Black</TITLE>
+<TEXT>Men's Cotton Crew Neck T-Shirt - Black. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D002</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Women's V-Neck Cotton Tee - White</TITLE>
+<TEXT>Women's V-Neck Cotton Tee - White. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D003</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Premium Graphic Tee - Navy</TITLE>
+<TEXT>Premium Graphic Tee - Navy. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D004</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Striped Cotton T-Shirt - Blue</TITLE>
+<TEXT>Striped Cotton T-Shirt - Blue. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D005</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Oversized Heavy Cotton Tee - Grey</TITLE>
+<TEXT>Oversized Heavy Cotton Tee - Grey. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D006</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Slim Fit Polo T-Shirt - Green</TITLE>
+<TEXT>Slim Fit Polo T-Shirt - Green. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D007</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Organic Cotton Crew Tee - Beige</TITLE>
+<TEXT>Organic Cotton Crew Tee - Beige. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D008</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Cotton Blend T-Shirt - Red</TITLE>
+<TEXT>Cotton Blend T-Shirt - Red. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D009</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Performance Tee - Black</TITLE>
+<TEXT>Performance Tee - Black. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D010</DOCID>
+<CATEGORY>T-Shirt</CATEGORY>
+<TITLE>Soft Jersey Tee - Pink</TITLE>
+<TEXT>Soft Jersey Tee - Pink. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D011</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Classic Straight Leg Denim Jeans</TITLE>
+<TEXT>Classic Straight Leg Denim Jeans. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D012</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Skinny Stretch Denim Jeans</TITLE>
+<TEXT>Skinny Stretch Denim Jeans. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D013</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Relaxed Fit Cotton Jeans</TITLE>
+<TEXT>Relaxed Fit Cotton Jeans. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D014</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Slim Dark Wash Denim</TITLE>
+<TEXT>Slim Dark Wash Denim. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D015</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>High Rise Wide Leg Jeans</TITLE>
+<TEXT>High Rise Wide Leg Jeans. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D016</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Low Rise Denim Jeans</TITLE>
+<TEXT>Low Rise Denim Jeans. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D017</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Vintage Blue Denim Pants</TITLE>
+<TEXT>Vintage Blue Denim Pants. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D018</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Comfort Stretch Denim Trousers</TITLE>
+<TEXT>Comfort Stretch Denim Trousers. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D019</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Black Rigid Denim Jeans</TITLE>
+<TEXT>Black Rigid Denim Jeans. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D020</DOCID>
+<CATEGORY>Jeans</CATEGORY>
+<TITLE>Cropped Denim Jeans</TITLE>
+<TEXT>Cropped Denim Jeans. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D021</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Summer Floral Midi Dress</TITLE>
+<TEXT>Summer Floral Midi Dress. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D022</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Elegant Satin Evening Dress</TITLE>
+<TEXT>Elegant Satin Evening Dress. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D023</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Casual Cotton Shirt Dress</TITLE>
+<TEXT>Casual Cotton Shirt Dress. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D024</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Maxi Wrap Dress - Navy</TITLE>
+<TEXT>Maxi Wrap Dress - Navy. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D025</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Flowy Printed Sundress</TITLE>
+<TEXT>Flowy Printed Sundress. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D026</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Knee Length Party Dress</TITLE>
+<TEXT>Knee Length Party Dress. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D027</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Off Shoulder Casual Dress</TITLE>
+<TEXT>Off Shoulder Casual Dress. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D028</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>A Line Cotton Dress</TITLE>
+<TEXT>A Line Cotton Dress. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D029</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Rib Knit Bodycon Dress</TITLE>
+<TEXT>Rib Knit Bodycon Dress. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D030</DOCID>
+<CATEGORY>Dress</CATEGORY>
+<TITLE>Pleated Midi Dress</TITLE>
+<TEXT>Pleated Midi Dress. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D031</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Lightweight Windproof Jacket</TITLE>
+<TEXT>Lightweight Windproof Jacket. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D032</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Travel Utility Zip Jacket</TITLE>
+<TEXT>Travel Utility Zip Jacket. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D033</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Classic Bomber Jacket</TITLE>
+<TEXT>Classic Bomber Jacket. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D034</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Water Resistant Outdoor Jacket</TITLE>
+<TEXT>Water Resistant Outdoor Jacket. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D035</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Tailored Wool Blend Jacket</TITLE>
+<TEXT>Tailored Wool Blend Jacket. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D036</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Softshell Hiking Jacket</TITLE>
+<TEXT>Softshell Hiking Jacket. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D037</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Casual Denim Jacket</TITLE>
+<TEXT>Casual Denim Jacket. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D038</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Puffer Insulated Jacket</TITLE>
+<TEXT>Puffer Insulated Jacket. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D039</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Leather Moto Jacket</TITLE>
+<TEXT>Leather Moto Jacket. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D040</DOCID>
+<CATEGORY>Jacket</CATEGORY>
+<TITLE>Packable Rain Jacket</TITLE>
+<TEXT>Packable Rain Jacket. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D041</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Cotton Fleece Hoodie</TITLE>
+<TEXT>Cotton Fleece Hoodie. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D042</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Zip Through Hoodie</TITLE>
+<TEXT>Zip Through Hoodie. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D043</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Oversized Street Hoodie</TITLE>
+<TEXT>Oversized Street Hoodie. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D044</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Heavyweight Basic Hoodie</TITLE>
+<TEXT>Heavyweight Basic Hoodie. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D045</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Cotton Blend Hoodie</TITLE>
+<TEXT>Cotton Blend Hoodie. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D046</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Pullover Hoodie - Grey</TITLE>
+<TEXT>Pullover Hoodie - Grey. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D047</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Zipped Hoodie with Pockets</TITLE>
+<TEXT>Zipped Hoodie with Pockets. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D048</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Soft Knit Hoodie</TITLE>
+<TEXT>Soft Knit Hoodie. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D049</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Athletic Performance Hoodie</TITLE>
+<TEXT>Athletic Performance Hoodie. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D050</DOCID>
+<CATEGORY>Hoodie</CATEGORY>
+<TITLE>Warm Winter Hoodie</TITLE>
+<TEXT>Warm Winter Hoodie. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D051</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Pleated A-Line Skirt</TITLE>
+<TEXT>Pleated A-Line Skirt. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D052</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>High Waist Denim Skirt</TITLE>
+<TEXT>High Waist Denim Skirt. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D053</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Flowy Cotton Midi Skirt</TITLE>
+<TEXT>Flowy Cotton Midi Skirt. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D054</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Wrap Satin Skirt</TITLE>
+<TEXT>Wrap Satin Skirt. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D055</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Pleated Tennis Skirt</TITLE>
+<TEXT>Pleated Tennis Skirt. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D056</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Soft Stretch Pencil Skirt</TITLE>
+<TEXT>Soft Stretch Pencil Skirt. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D057</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Flared Casual Skirt</TITLE>
+<TEXT>Flared Casual Skirt. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D058</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Layered Party Skirt</TITLE>
+<TEXT>Layered Party Skirt. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D059</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Tailored Wool Skirt</TITLE>
+<TEXT>Tailored Wool Skirt. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D060</DOCID>
+<CATEGORY>Skirt</CATEGORY>
+<TITLE>Printed Summer Skirt</TITLE>
+<TEXT>Printed Summer Skirt. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D061</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Classic Chino Trouser</TITLE>
+<TEXT>Classic Chino Trouser. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D062</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Stretch Office Trousers</TITLE>
+<TEXT>Stretch Office Trousers. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D063</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Straight Fit Cotton Trouser</TITLE>
+<TEXT>Straight Fit Cotton Trouser. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D064</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Relaxed Cargo Trousers</TITLE>
+<TEXT>Relaxed Cargo Trousers. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D065</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Slim Fit Wool Trouser</TITLE>
+<TEXT>Slim Fit Wool Trouser. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D066</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Tailored Pleated Trouser</TITLE>
+<TEXT>Tailored Pleated Trouser. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D067</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Lightweight Travel Trouser</TITLE>
+<TEXT>Lightweight Travel Trouser. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D068</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Urban Utility Trouser</TITLE>
+<TEXT>Urban Utility Trouser. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D069</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Wide Leg Linen Trouser</TITLE>
+<TEXT>Wide Leg Linen Trouser. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D070</DOCID>
+<CATEGORY>Trouser</CATEGORY>
+<TITLE>Formal Business Trouser</TITLE>
+<TEXT>Formal Business Trouser. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D071</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Chunky Knit Winter Sweater</TITLE>
+<TEXT>Chunky Knit Winter Sweater. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D072</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Soft Cotton Crew Sweater</TITLE>
+<TEXT>Soft Cotton Crew Sweater. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D073</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Cashmere Blend Sweater</TITLE>
+<TEXT>Cashmere Blend Sweater. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D074</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Oversized Hoodie Sweater</TITLE>
+<TEXT>Oversized Hoodie Sweater. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D075</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Fine Gauge Knit Sweater</TITLE>
+<TEXT>Fine Gauge Knit Sweater. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D076</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Striped Wool Sweater</TITLE>
+<TEXT>Striped Wool Sweater. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D077</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Ribbed Henley Sweater</TITLE>
+<TEXT>Ribbed Henley Sweater. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D078</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Cropped Knit Sweater</TITLE>
+<TEXT>Cropped Knit Sweater. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D079</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Warm Fleece Sweater</TITLE>
+<TEXT>Warm Fleece Sweater. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D080</DOCID>
+<CATEGORY>Sweater</CATEGORY>
+<TITLE>Lightweight Merino Sweater</TITLE>
+<TEXT>Lightweight Merino Sweater. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D081</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Long Wool Blend Coat</TITLE>
+<TEXT>Long Wool Blend Coat. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D082</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Classic Trench Coat</TITLE>
+<TEXT>Classic Trench Coat. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D083</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Structured Formal Coat</TITLE>
+<TEXT>Structured Formal Coat. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D084</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Puffer Winter Coat</TITLE>
+<TEXT>Puffer Winter Coat. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D085</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Double-Breasted Wool Coat</TITLE>
+<TEXT>Double-Breasted Wool Coat. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D086</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Waterproof Parka Coat</TITLE>
+<TEXT>Waterproof Parka Coat. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D087</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Cashmere Longline Coat</TITLE>
+<TEXT>Cashmere Longline Coat. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D088</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Quilted Lined Coat</TITLE>
+<TEXT>Quilted Lined Coat. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D089</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Leather Trench Coat</TITLE>
+<TEXT>Leather Trench Coat. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D090</DOCID>
+<CATEGORY>Coat</CATEGORY>
+<TITLE>Tailored Peacoat</TITLE>
+<TEXT>Tailored Peacoat. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D091</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Classic White Canvas Sneakers</TITLE>
+<TEXT>Classic White Canvas Sneakers. Made from soft cotton and breathable fabric for everyday comfort and easy wear.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D092</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Running Air Cushion Sneakers</TITLE>
+<TEXT>Running Air Cushion Sneakers. Designed for a relaxed fit with durable stitching and smooth finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D093</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Leather Casual Sneakers</TITLE>
+<TEXT>Leather Casual Sneakers. Comfort stretch fabric keeps movement easy while retaining shape.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D094</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Street Style Low Top Sneakers</TITLE>
+<TEXT>Street Style Low Top Sneakers. Made with premium quality material for daily use and lasting durability.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D095</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Comfort Mesh Trainers</TITLE>
+<TEXT>Comfort Mesh Trainers. Lightweight and comfortable with a clean modern style and versatile finish.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D096</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Sport Flex Sneakers</TITLE>
+<TEXT>Sport Flex Sneakers. Soft-touch fabric offers all-day comfort with a flattering silhouette.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D097</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Retro Court Sneakers</TITLE>
+<TEXT>Retro Court Sneakers. Crafted for daily wear with breathable comfort and a refined look.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D098</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Lightweight Walking Sneakers</TITLE>
+<TEXT>Lightweight Walking Sneakers. Premium construction combines comfort, style, and easy maintenance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D099</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Fashion Slip On Sneakers</TITLE>
+<TEXT>Fashion Slip On Sneakers. Built for movement with flexible material and a polished appearance.</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>D100</DOCID>
+<CATEGORY>Sneakers</CATEGORY>
+<TITLE>Premium Everyday Sneakers</TITLE>
+<TEXT>Premium Everyday Sneakers. Easy-care fabric keeps this product comfortable, stylish, and practical.</TEXT>
+</DOC>
+
