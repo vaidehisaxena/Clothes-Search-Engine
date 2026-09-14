@@ -270,6 +270,74 @@ class ClothingSearchEngine:
 
         return results
 
+    def recommend_documents(self, seed_doc_ids, exclude_doc_ids=None, limit=4):
+        """Recommend unseen documents similar to the retrieved results.
+
+        The first three retrieved documents are represented as normalized
+        log-TF-IDF vectors and averaged into a centroid. Remaining documents
+        are ranked by cosine similarity to that centroid.
+        """
+        seeds = [doc_id for doc_id in seed_doc_ids if doc_id in self.documents][:3]
+        if not seeds or limit <= 0:
+            return []
+
+        excluded = set(exclude_doc_ids or [])
+        excluded.update(seeds)
+        vectors = {doc_id: {} for doc_id in self.documents}
+        squared_norms = defaultdict(float)
+
+        for term, postings in self.positional_index.items():
+            df = len(postings)
+            idf = math.log10(self.N / df) if df else 0.0
+            if idf == 0:
+                continue
+
+            for doc_id, positions in postings.items():
+                weight = (1 + math.log10(len(positions))) * idf
+                vectors[doc_id][term] = weight
+                squared_norms[doc_id] += weight ** 2
+
+        normalized_vectors = {}
+        for doc_id, vector in vectors.items():
+            norm = math.sqrt(squared_norms[doc_id])
+            normalized_vectors[doc_id] = (
+                {term: weight / norm for term, weight in vector.items()}
+                if norm
+                else {}
+            )
+
+        centroid = defaultdict(float)
+        for doc_id in seeds:
+            for term, weight in normalized_vectors[doc_id].items():
+                centroid[term] += weight / len(seeds)
+
+        centroid_norm = math.sqrt(sum(weight ** 2 for weight in centroid.values()))
+        if centroid_norm == 0:
+            return []
+
+        scored = []
+        for doc_id, vector in normalized_vectors.items():
+            if doc_id in excluded or not vector:
+                continue
+
+            score = sum(
+                weight * centroid.get(term, 0.0)
+                for term, weight in vector.items()
+            ) / centroid_norm
+            if score > 0:
+                scored.append((doc_id, score))
+
+        scored.sort(key=lambda item: (-item[1], item[0]))
+        return [
+            {
+                "docID": doc_id,
+                "title": self.documents[doc_id]["title"],
+                "category": self.documents[doc_id]["category"],
+                "score": score,
+            }
+            for doc_id, score in scored[:limit]
+        ]
+
 
 if __name__ == "__main__":
     engine = ClothingSearchEngine()

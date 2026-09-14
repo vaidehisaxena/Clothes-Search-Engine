@@ -122,6 +122,21 @@ streamlit run app.py
 - Exact phrase search using positional postings
 - Ordered proximity search with distance `k`
 
+## Novelty: Content-based recommendations
+
+The recommendation layer is the novel extension beyond the required ranked,
+phrase, and proximity retrieval modes. After a successful search, the interface
+displays up to four unseen products under **You may also like**.
+
+The first three retrieved documents form the seed set. The engine represents
+every document with a normalized log-TF-IDF vector, averages the seed vectors
+into a centroid, and ranks the remaining documents by cosine similarity to that
+centroid. Documents already returned by the original query are excluded, so the
+recommendations remain clearly separate from the actual search results.
+
+This is a content-based recommendation method: it uses only the textual content
+of the clothing descriptions and requires no user-history or rating data.
+
 ## Git workflow note
 
 The assignment instructions say to save/progress to Git periodically, typically by committing and pushing every couple of hours. A normal cycle is:

@@ -41,10 +41,15 @@ def result_card(engine, result, mode, rank):
     if len(description) > 190:
         description = description[:187].rstrip() + "..."
 
-    if mode == "Ranked VSM":
+    if mode in {"Ranked VSM", "Recommendation"}:
         score = result["score"]
+        score_label = (
+            "Recommendation similarity"
+            if mode == "Recommendation"
+            else "Cosine similarity"
+        )
         evidence = f"""
-            <div class="score-row"><span>Cosine similarity</span><strong>{score:.6f}</strong></div>
+            <div class="score-row"><span>{score_label}</span><strong>{score:.6f}</strong></div>
             <div class="score-track"><div class="score-fill" style="width:{min(score * 100, 100):.2f}%"></div></div>
         """
     elif mode == "Exact phrase":
@@ -149,6 +154,8 @@ st.markdown(
     .results-header {display:flex;align-items:end;justify-content:space-between;margin:2.6rem 0 1rem}
     .results-header h2 {margin:0;color:var(--ink);font-size:1.75rem;font-weight:900;letter-spacing:-.035em}
     .results-count {color:var(--blue);font-size:.82rem;font-weight:800}
+    .recommendation-intro {margin:-.55rem 0 1.15rem;color:var(--muted);font-size:.86rem;line-height:1.6}
+    .recommendation-intro strong {color:var(--pink)}
     .product-card {position:relative;min-height:410px;margin-bottom:1.1rem;overflow:hidden;border:1px solid rgba(7,50,155,.1);border-radius:24px;background:rgba(255,255,255,.84);box-shadow:0 15px 42px rgba(7,50,155,.09);transition:.2s ease}
     .product-card:hover {transform:translateY(-4px);box-shadow:0 22px 48px rgba(7,50,155,.14)}
     .card-topline {position:absolute;z-index:3;top:.9rem;left:.9rem;right:.9rem;display:flex;justify-content:space-between}
@@ -250,6 +257,35 @@ if results is not None:
         for index, result in enumerate(results, start=1):
             with columns[(index - 1) % 2]:
                 result_card(engine, result, mode, index)
+
+        recommendations = engine.recommend_documents(
+            [result["docID"] for result in results],
+            exclude_doc_ids=[result["docID"] for result in results],
+            limit=4,
+        )
+        if recommendations:
+            st.markdown(
+                """
+                <div class="results-header">
+                    <h2>You may also like</h2>
+                    <span class="results-count">CONTENT-BASED PICKS</span>
+                </div>
+                <p class="recommendation-intro">
+                    <strong>Recommended after retrieval:</strong> these unseen products are
+                    closest to the top matches using log-TF-IDF cosine similarity.
+                </p>
+                """,
+                unsafe_allow_html=True,
+            )
+            recommendation_columns = st.columns(2)
+            for index, recommendation in enumerate(recommendations, start=1):
+                with recommendation_columns[(index - 1) % 2]:
+                    result_card(
+                        engine,
+                        recommendation,
+                        "Recommendation",
+                        index,
+                    )
     else:
         st.markdown('<div class="empty-state"><div class="empty-icon">⌕</div><h3>No matching pieces found</h3><p>Try broader terms, check the spelling, or choose another search mode.</p></div>', unsafe_allow_html=True)
 else:
